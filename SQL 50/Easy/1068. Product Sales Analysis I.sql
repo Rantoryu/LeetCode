@@ -1,0 +1,1 @@
+SELECT product_name,year,price FROM product JOIN sales AS s ON s.product_id=product.product_id GROUP BY product_name, year,price ORDER BY product_name,year,price;
