@@ -29,16 +29,18 @@ Each solution is written with readability and efficiency in mind, often includin
 ```
 (Structure may change as I add more solutions.)
 
-✅ Goals
-📖 Improve problem-solving skills
-🚀 Enhance SQL and coding proficiency
-📚 Build a collection of well-documented solutions
-🤝 Share knowledge with others
+✅ Goals<br>
+📖 Improve problem-solving skills<br>
+🚀 Enhance SQL and coding proficiency<br>
+📚 Build a collection of well-documented solutions<br>
+🤝 Share knowledge with others<br>
 
 🎯 How to Use
+<br>
 Feel free to explore the solutions and learn from them. If you have suggestions or better approaches, I'm open to discussions!
 
 📢 Let's Connect!
+<br>
 🔗 [LinkedIn](https://www.linkedin.com/in/dominikmig/)
 
 Happy coding! 🚀
