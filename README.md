@@ -26,7 +26,7 @@ Each solution is written with readability and efficiency in mind, often includin
  ┃ ┣ 📜 graphs.js  
  ┃ ┣ 📜 recursion.ts  
  ┣ 📜 README.md  
-
+```
 (Structure may change as I add more solutions.)
 
 ✅ Goals
