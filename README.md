@@ -26,3 +26,19 @@ Each solution is written with readability and efficiency in mind, often includin
  ┃ ┣ 📜 graphs.js  
  ┃ ┣ 📜 recursion.ts  
  ┣ 📜 README.md  
+
+(Structure may change as I add more solutions.)
+
+✅ Goals
+📖 Improve problem-solving skills
+🚀 Enhance SQL and coding proficiency
+📚 Build a collection of well-documented solutions
+🤝 Share knowledge with others
+
+🎯 How to Use
+Feel free to explore the solutions and learn from them. If you have suggestions or better approaches, I'm open to discussions!
+
+📢 Let's Connect!
+🔗 [LinkedIn](https://www.linkedin.com/in/dominikmig/)
+
+Happy coding! 🚀
